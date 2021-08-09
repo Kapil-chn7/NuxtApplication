@@ -1,0 +1,26 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\KAPIL\\\\Projects\\\\narad\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "logout",
+    "path": "/logout",
+    "component": "D:\\\\KAPIL\\\\Projects\\\\narad\\\\pages\\\\logout.vue",
+    "chunkName": "pages/logout"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "D:\\\\KAPIL\\\\Projects\\\\narad\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\KAPIL\\\\Projects\\\\narad\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
